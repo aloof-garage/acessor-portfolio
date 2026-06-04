@@ -31,7 +31,7 @@ git remote add origin https://github.com/YOUR_USERNAME/acessor-portfolio.git
 git push -u origin main
 ```
 
-> Replace `YOUR_USERNAME` with your GitHub username.
+> meow meow mf
 
 ---
 
